@@ -1,16 +1,43 @@
-# React + Vite
+📄 Interactive Resume
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An elegant and modern Interactive Resume Website built to showcase my skills, experience, and projects in a dynamic and visually appealing way.
+This project transforms a traditional resume into an interactive web experience, making it easier for employers to explore my profile. 
+ 
+✨ Features
 
-Currently, two official plugins are available:
+🎨 Modern UI/UX with clean layout
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📱 Fully responsive — works on mobile, tablet, and desktop
 
-## React Compiler
+💡 Interactive sections (skills, projects, experience, contact)
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+⚡ Smooth animations and transitions
 
-## Expanding the ESLint configuration
+🌙 Optional dark mode (if you have it)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 Social media and portfolio links
+
+🛠️ Tech Stack
+
+HTML5, CSS3, JavaScript
+
+Framework: React 
+
+Styling: CSS Modules / Custom CSS
+
+Hosting: GitHub Pages  
+ 
+  
+
+⚙️ Installation & Setup
+# Clone the repository
+git clone https://github.com/Monika755/interactiveResume.git
+
+# Navigate into the project folder
+cd interactive-resume
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
