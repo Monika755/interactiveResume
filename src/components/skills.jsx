@@ -1,7 +1,6 @@
 import React from "react";
 import '../App.css';
-
-// Import images from assets
+ 
 import htmlImg from '../assets/html.png';
 import cssImg from '../assets/css.png';
 import sassImg from '../assets/sass.png';
